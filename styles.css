@@ -506,7 +506,13 @@ body {
     background-color: hsl(210, 4%, 67%);
     color: hsl(0, 0%, 100%);
   }
+ 
   .nav__off-screen-menu {
+    display: none;
+    transition: all 0.5s ease-in-out;
+  }
+
+  .nav__off-screen-menu.active {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -516,10 +522,10 @@ body {
     right: -95%;
     background-color: hsl(0, 0%, 100%);
     width: 90%;
-    transition: right 0.5s;
     margin: 0 5%;
     z-index: 1;
   }
+
   .nav__off-screen-list {
     list-style: none;
     text-align: center;
@@ -576,6 +582,8 @@ body {
     cursor: pointer;
     padding: 1rem;
   }
+
+
   .nav__hamburguer__bar {
     width: 75%;
     height: 2px;
