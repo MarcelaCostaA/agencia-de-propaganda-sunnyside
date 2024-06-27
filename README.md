@@ -1,24 +1,23 @@
-# AGÊNCIA DE PROPAGANDA SUNNYDALE
+# AGÊNCIA DE PROPAGANDA SUNNYSIDE
 
 ## Conteúdo
 
-- [AGÊNCIA DE PROPAGANDA SUNNYDALE](#agência-de-propaganda-sunnydale)
+- [AGÊNCIA DE PROPAGANDA SUNNYSIDE](#agência-de-propaganda-sunnyside)
   - [Conteúdo](#conteúdo)
     - [Imagem](#imagem)
     - [GitPage](#gitpage)
     - [Desenvolvido Com](#desenvolvido-com)
-    - [Recursos](#recursos)
 
 
 
 
 ### Imagem
 
-![Agência de Propaganda Sunnydale](agencia-de-propaganda-sunnydale.png)
+![Agência de Propaganda Sunnyside](agencia-de-propaganda-sunnyside.png)
 
 ### GitPage
 
-- GitPage: [Agência de Propaganda Sunnydale]()
+- GitPage: [Agência de Propaganda Sunnyside]()
 
 
 ### Desenvolvido Com
@@ -29,10 +28,6 @@
 - SASS
 - Media Queries
 - JavaScript
-
-### Recursos
-
-- [Clamp Generator](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 
 
 Esta é uma solução para  [Sunnyside agency landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef).
