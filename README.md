@@ -25,7 +25,6 @@
 - HTML5 semântico
 - Flexbox
 - CSS Grid
-- SASS
 - Media Queries
 - JavaScript
 
